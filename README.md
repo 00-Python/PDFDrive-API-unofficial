@@ -8,3 +8,6 @@
 
 ## So far
 1. Get pre-made collections from homepage
+
+## TODO
+* Swap requests for selenium
